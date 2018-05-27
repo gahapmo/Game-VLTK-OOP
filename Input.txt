@@ -1,0 +1,31 @@
+10
+
+1 5 1
+TOP sever
+
+1 6 2
+TFTAS sever
+
+1 10 5
+Vua tre trau
+
+2 6 2
+WHAT THE
+
+3 12 4
+KS RONGD
+
+1 7 7
+TEN GI BAY
+
+1 10 12
+Ngon JDL
+
+1 6 7
+AD YAUDI
+
+1 23 3
+UYG AQSJ
+
+1 17 4
+JK OPOD
